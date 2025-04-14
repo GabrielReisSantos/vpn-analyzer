@@ -1,4 +1,4 @@
-# 🔍 VPN Exposure Analyzer
+# VPN Exposure Analyzer
 
 **Created by Gabriel Reis**
 
@@ -11,13 +11,13 @@ This tool helps you detect if your VPN setup is **truly protecting your privacy*
 
 ---
 
-## 💡 Why I Built This
+## Why I Built This
 
-As part of building my **home SOC lab**, I wanted a tool that could verify if my VPN or proxy was leaking any private information — especially during malware analysis, browser fingerprinting, or traffic routing simulations. This tool will grow into a larger suite to ensure **endpoint anonymity and secure configurations** across my lab devices.
+As part of building my **home SOC lab**, I wanted a tool that could verify if my VPN or proxy was leaking any private information, especially during malware analysis, browser fingerprinting, or traffic routing simulations. This tool will grow into a larger suite to ensure **endpoint anonymity and secure configurations** across my lab devices.
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 ### 1. Clone and Install
 
@@ -47,7 +47,7 @@ You’ll see a full breakdown in your terminal and (optionally) receive a report
 
 ---
 
-## 🔭 What’s Next
+## What’s Next
 
 - Add support for:
   - IPv6 leak detection
@@ -59,12 +59,7 @@ You’ll see a full breakdown in your terminal and (optionally) receive a report
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Feel free to fork the project and suggest improvements — this is just the beginning of a broader **home lab privacy & security toolkit**.
+Feel free to fork the project and suggest improvements. This is just the beginning of my **home lab privacy & security toolkit**.
 
----
-
-## 📄 License
-
-MIT License
